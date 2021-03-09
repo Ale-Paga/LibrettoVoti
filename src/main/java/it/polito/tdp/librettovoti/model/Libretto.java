@@ -1,4 +1,4 @@
-package it.polito.tdp.model;
+package it.polito.tdp.librettovoti.model;
 
 import java.util.ArrayList;
 import java.util.List;
