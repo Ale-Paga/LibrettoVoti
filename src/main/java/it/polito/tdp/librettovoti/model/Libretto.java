@@ -3,7 +3,7 @@ package it.polito.tdp.librettovoti.model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Libretto {
+public class Libretto {                                  //QUESTO è IL NOSTRO MODELLO
 	
 	private List<Voto> voti;
 	

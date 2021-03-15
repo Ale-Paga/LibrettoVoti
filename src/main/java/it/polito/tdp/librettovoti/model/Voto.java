@@ -13,7 +13,7 @@ import java.time.LocalDate;
  *
  */
 
-public class Voto {
+public class Voto {                    //ANCHE QUESTO FA PARTE DEL MODELLO
 	private String nome;
 	private int voto;   //30L come lo rappresento?
 	private LocalDate data;  //data superamento esame
